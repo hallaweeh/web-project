@@ -1,3 +1,4 @@
+
 body {
    background-color: #f0f0f0;
    font-family: Arial, sans-serif;
@@ -8,17 +9,18 @@ h1 {
    margin-top: 50px;
 }
 p {
-   color: #555;
-   font-size: 18px;
+   color: #50c740;
+   font-size: larger;
 }
 a {
    display: inline-block;
    margin-top: 20px;
    padding: 10px 20px;
-   background-color: #3498db;
+   background-color: #0e4792;
    color: white;
-   text-decoration: none;
+   text-decoration:solid;
    border-radius: 5px;
 }
 a:hover {
-   background-color: #2980b9;
+   background-color: #d679a5;
+}
